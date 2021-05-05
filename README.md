@@ -14,11 +14,15 @@ Literary Review /Exploratory Analysis/Applying Machine Algorithms
 Personally, I have been an active trader in the market for the past one year and have read about 10 books on the stock market. As for the project, I have worked read quite a bit of literature in the topic of stock price prediction. I have also watched several videos on YouTube that present similar projects on the topic. The references section has the link to those articles and videos.
 I’m doing some exploratory analysis using the pandas library and visualizing them using matplotlib. The machine learning algorithms as mentioned in the overview section are going to be the following: LSTM, Decision Tree Regressor, and Linear Regression.
 
-YouTube Presentation
+Results
+
+
+
+YouTube Presentations
 
 https://www.youtube.com/watch?v=tefzXz-2X5Y 
 
-Github Link
+
  
 References:
 https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp
