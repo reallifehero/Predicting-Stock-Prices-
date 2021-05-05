@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=tefzXz-2X5Y
 
 Github Link
  
-References
+References:
 https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp
 https://www.youtube.com/watch?v=SEQbb8w7VTw
 https://www.youtube.com/watch?v=ftMq5ps503w
