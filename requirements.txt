@@ -3,3 +3,4 @@ From Anaconda Navigator, I accessed Jupyter Notebook.
 Using Jupyter Notebook, I wrote my code in Python Programming Language. 
 The libraries that I used in Jupyter Notebook are the following: math, pandas_datareader, numpy, pandas, sklearn and matploblib. 
 The machine learning model was imported from the Keras Libaries. 
+The data was directly accessed from yahoo finance. 
