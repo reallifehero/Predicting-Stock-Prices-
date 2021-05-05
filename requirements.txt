@@ -1,2 +1,5 @@
-Libraries 
-quandl
+For this project, I downloaded Anconda Navigator. Anaconda Navigator is a desktop graphical user interface (GUI) included in Anaconda distribution that allows you to launch applications and easily manage conda packages, environments, and channels without using command-line commands. 
+From Anaconda Navigator, I accessed Jupyter Notebook. 
+Using Jupyter Notebook, I wrote my code in Python Programming Language. 
+The libraries that I used in Jupyter Notebook are the following: math, pandas_datareader, numpy, pandas, sklearn and matploblib. 
+The machine learning model was imported from the Keras Libaries. 
