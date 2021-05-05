@@ -7,7 +7,7 @@ In this project, I will try to use an artificial recurrent neural network called
  
 Dataset
 
-The data was directly retrieved from yahoo finance's Api so I didn't have to download the data in my system which saves me some space in my local drive. To get the data, I needed to install pandas_datareader. Once I had the libraries and packages, I was able to retrieve the raw data from the Yahoo. 
+The data was directly retrieved from yahoo finance's Api so I didn't have to download the data in my system which saves me some space in my local drive. To get the data, I needed to install pandas_datareader. Once I had the libraries and packages, I was able to connect and retrieve the raw data from the Yahoo. 
  
 Literary Review /Exploratory Analysis/Applying Machine Algorithms
 
