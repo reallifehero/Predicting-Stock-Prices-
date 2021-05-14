@@ -47,8 +47,10 @@ Building and compiling the model was also a bit challenging. LSTM has multiple l
 
 YouTube Presentations
 https://www.youtube.com/watch?v=tefzXz-2X5Y -Phase I video 
+
 https://www.youtube.com/watch?v=KYGx5jhjRbw -Phase II video 
 
+https://www.youtube.com/watch?v=hRhmfNjcIwc -Phase III video 
 
  
 References:
